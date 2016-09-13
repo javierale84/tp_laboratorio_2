@@ -29,3 +29,12 @@ C:\TP_Prog2\obj\Debug\TP_Prog2.csproj.GenerateResource.Cache
 C:\TP_Laboratorio_2\bin\Debug\TP_Prog2.exe.config
 C:\TP_Laboratorio_2\obj\Debug\TP_Prog2.exe
 C:\TP_Laboratorio_2\obj\Debug\TP_Prog2.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\bin\Debug\TP_Prog2.exe.config
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\obj\Debug\TP_Prog2.exe
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\obj\Debug\TP_Prog2.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\bin\Debug\TP_Prog2.exe
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\obj\Debug\TP_Prog2.csprojResolveAssemblyReference.cache
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\obj\Debug\TP_Prog2.Form1.resources
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\obj\Debug\TP_Prog2.Properties.Resources.resources
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\obj\Debug\TP_Prog2.csproj.GenerateResource.Cache
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\bin\Debug\TP_Prog2.pdb

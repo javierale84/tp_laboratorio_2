@@ -8,7 +8,13 @@ namespace TP_Prog2
 {
     class Calculadora
     {
-
+        /// <summary>
+        /// Metodo que realiza la operacion de la calculadora
+        /// </summary>
+        /// <param name="numero1"></param>
+        /// <param name="numero2"></param>
+        /// <param name="operador"></param>
+        /// <returns></returns>
         #region Metodo Operar
         public static double operar(Numero numero1, Numero numero2, string operador)
         {
@@ -61,6 +67,12 @@ namespace TP_Prog2
         }
         #endregion
 
+
+        /// <summary>
+        /// Metodo que valida el operador
+        /// </summary>
+        /// <param name="operador"></param>
+        /// <returns></returns>
         #region Metodo que valida el operador
 
         public static string validarOperador(string operador)
@@ -74,12 +86,21 @@ namespace TP_Prog2
         }
         #endregion
 
+       
+        /// <summary>
+        /// Metodo que limpia y pone en 0 los valores de la calculadora
+        /// </summary>
+        /// <param name="uno"></param>
+        /// <param name="dos"></param>
+        /// <param name="operador"></param>
+        #region Metodo que Limpia
         public static void Limpiar(Numero uno, Numero dos, string operador)
         {
             uno.setNumero("");
             dos.setNumero("");
             operador = "";
         }
+        #endregion
     }
     }
 
