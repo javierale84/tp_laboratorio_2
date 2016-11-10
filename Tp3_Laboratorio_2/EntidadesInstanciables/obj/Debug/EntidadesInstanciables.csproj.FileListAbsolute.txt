@@ -1,0 +1,11 @@
+C:\Tp3_Laboratorio_2\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Tp3_Laboratorio_2\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Tp3_Laboratorio_2\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+C:\Tp3_Laboratorio_2\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Tp3_Laboratorio_2\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Tp3_Laboratorio_2\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Tp3_Laboratorio_2\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+C:\Tp3_Laboratorio_2\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\Tp3_Laboratorio_2\EntidadesInstanciables\bin\Debug\Archivos.dll
+C:\Tp3_Laboratorio_2\EntidadesInstanciables\bin\Debug\Archivos.pdb
+C:\Tp3_Laboratorio_2\EntidadesInstanciables\bin\Debug\Excepciones.dll

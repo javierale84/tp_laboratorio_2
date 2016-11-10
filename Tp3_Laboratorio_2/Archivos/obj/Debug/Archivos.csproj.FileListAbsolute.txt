@@ -1,0 +1,7 @@
+C:\Tp3_Laboratorio_2\Archivos\bin\Debug\Archivos.dll
+C:\Tp3_Laboratorio_2\Archivos\bin\Debug\Archivos.pdb
+C:\Tp3_Laboratorio_2\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Tp3_Laboratorio_2\Archivos\obj\Debug\Archivos.dll
+C:\Tp3_Laboratorio_2\Archivos\obj\Debug\Archivos.pdb
+C:\Tp3_Laboratorio_2\Archivos\bin\Debug\Excepciones.dll
+C:\Tp3_Laboratorio_2\Archivos\bin\Debug\Excepciones.pdb

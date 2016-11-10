@@ -1,0 +1,14 @@
+C:\Tp3_Laboratorio_2\Consola\bin\Debug\Consola.exe.config
+C:\Tp3_Laboratorio_2\Consola\bin\Debug\Consola.exe
+C:\Tp3_Laboratorio_2\Consola\bin\Debug\Consola.pdb
+C:\Tp3_Laboratorio_2\Consola\bin\Debug\EntidadesAbstractas.dll
+C:\Tp3_Laboratorio_2\Consola\bin\Debug\Excepciones.dll
+C:\Tp3_Laboratorio_2\Consola\bin\Debug\EntidadesAbstractas.pdb
+C:\Tp3_Laboratorio_2\Consola\bin\Debug\EntidadesInstanciables.pdb
+C:\Tp3_Laboratorio_2\Consola\bin\Debug\Excepciones.pdb
+C:\Tp3_Laboratorio_2\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Tp3_Laboratorio_2\Consola\obj\Debug\Consola.exe
+C:\Tp3_Laboratorio_2\Consola\obj\Debug\Consola.pdb
+C:\Tp3_Laboratorio_2\Consola\bin\Debug\Archivos.dll
+C:\Tp3_Laboratorio_2\Consola\bin\Debug\Archivos.pdb
+C:\Tp3_Laboratorio_2\Consola\bin\Debug\EntidadesInstanciables.dll
