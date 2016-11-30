@@ -1,0 +1,89 @@
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Test_Unitarios.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Test_Unitarios.pdb
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\EntidadesAbstractas.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\EntidadesInstanciables.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Excepciones.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Archivos.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Excepciones.pdb
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Archivos.pdb
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\obj\Debug\Test_Unitarios.csprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\obj\Debug\Test_Unitarios.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\obj\Debug\Test_Unitarios.pdb
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Test_Unitarios.dll
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Test_Unitarios.pdb
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\EntidadesAbstractas.dll
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\EntidadesInstanciables.dll
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Excepciones.dll
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\mscorlib.dll
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Archivos.dll
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\EntidadesAbstractas.pdb
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\EntidadesInstanciables.pdb
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Excepciones.pdb
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\Archivos.pdb
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\normidna.nlp
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\normnfc.nlp
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\normnfd.nlp
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\normnfkc.nlp
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\bin\Debug\normnfkd.nlp
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\obj\Debug\Test_Unitarios.csprojResolveAssemblyReference.cache
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\obj\Debug\Test_Unitarios.dll
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Test_Unitarios\obj\Debug\Test_Unitarios.pdb
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\Test_Unitarios.dll
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\Test_Unitarios.pdb
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesAbstractas.dll
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesInstanciables.dll
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\Excepciones.dll
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\mscorlib.dll
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\Archivos.dll
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesAbstractas.pdb
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesInstanciables.pdb
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\Excepciones.pdb
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\Archivos.pdb
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\normidna.nlp
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfc.nlp
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfd.nlp
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfkc.nlp
+D:\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfkd.nlp
+D:\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.csprojResolveAssemblyReference.cache
+D:\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.dll
+D:\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Test_Unitarios.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Test_Unitarios.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesAbstractas.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesInstanciables.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Excepciones.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\mscorlib.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Archivos.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Excepciones.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Archivos.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normidna.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfkc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfkd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.csprojResolveAssemblyReference.cache
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Test_Unitarios.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Test_Unitarios.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesAbstractas.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesInstanciables.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Excepciones.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\mscorlib.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Archivos.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Excepciones.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Archivos.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normidna.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfkc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfkd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.csprojResolveAssemblyReference.cache
