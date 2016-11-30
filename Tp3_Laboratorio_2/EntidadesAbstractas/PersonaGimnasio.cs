@@ -41,7 +41,7 @@ namespace EntidadesAbstractas
 
        public static bool operator ==(PersonaGimnasio pg1, PersonaGimnasio pg2)
        {
-           if (pg1.Equals(pg2) && ((pg1.DNI == pg2.DNI) || pg1._identificador == pg2._identificador))
+           if (pg1.Equals(pg2) && (pg1.DNI == pg2.DNI || pg1._identificador == pg2._identificador))
            {
                return true;
            }

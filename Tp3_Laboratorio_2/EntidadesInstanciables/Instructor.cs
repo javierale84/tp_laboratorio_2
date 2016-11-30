@@ -47,7 +47,12 @@ namespace EntidadesInstanciables
 
      protected override string MostrarDatos()
      {
-        return base.MostrarDatos();
+         StringBuilder sb = new StringBuilder();
+         sb.AppendLine(base.ToString());
+         return sb.ToString();
+
+
+    
 
      }
 

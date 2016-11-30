@@ -5,3 +5,10 @@ C:\Tp3_Laboratorio_2\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
 C:\Tp3_Laboratorio_2\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
 C:\Tp3_Laboratorio_2\EntidadesAbstractas\bin\Debug\Excepciones.dll
 C:\Tp3_Laboratorio_2\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

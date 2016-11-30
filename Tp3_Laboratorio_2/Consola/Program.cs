@@ -17,9 +17,9 @@ namespace Consola
         static void Main(string[] args)
         {
             Gimnasio gim = new Gimnasio();
-            Alumno a1 = new Alumno(1, "Juan", "Lopez", "12234456",
-           EntidadesAbstractas.Persona.ENacionalidad.Argentino, Gimnasio.EClases.CrossFit,
+            Alumno a1 = new Alumno(1, "Juan", "Lopez", "12234456", EntidadesAbstractas.Persona.ENacionalidad.Argentino, Gimnasio.EClases.CrossFit,
            Alumno.EEstadoCuenta.MesPrueba);
+           
             gim += a1;
             try
             {

@@ -1,0 +1,77 @@
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\Main.exe.config
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\Main.exe
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\Main.pdb
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\Archivos.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\EntidadesAbstractas.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\EntidadesInstanciables.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\Excepciones.dll
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\Archivos.pdb
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\Excepciones.pdb
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\obj\Debug\Main.exe
+C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Main\obj\Debug\Main.pdb
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Main\bin\Debug\Main.exe.config
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Main\obj\Debug\Main.exe
+D:\Tomadi.Federico.2D.Trabajo.Practico.3\Main\obj\Debug\Main.pdb
+D:\TP3 AleJAvier\Main\bin\Debug\Main.exe.config
+D:\TP3 AleJAvier\Main\obj\Debug\Main.exe
+D:\TP3 AleJAvier\Main\obj\Debug\Main.pdb
+D:\TP3 AleJAvier\Main\bin\Debug\Main.exe
+D:\TP3 AleJAvier\Main\bin\Debug\Main.pdb
+D:\TP3 AleJAvier\Main\bin\Debug\Archivos.dll
+D:\TP3 AleJAvier\Main\bin\Debug\EntidadesAbstractas.dll
+D:\TP3 AleJAvier\Main\bin\Debug\EntidadesInstanciables.dll
+D:\TP3 AleJAvier\Main\bin\Debug\Excepciones.dll
+D:\TP3 AleJAvier\Main\bin\Debug\mscorlib.dll
+D:\TP3 AleJAvier\Main\bin\Debug\Archivos.pdb
+D:\TP3 AleJAvier\Main\bin\Debug\EntidadesAbstractas.pdb
+D:\TP3 AleJAvier\Main\bin\Debug\EntidadesInstanciables.pdb
+D:\TP3 AleJAvier\Main\bin\Debug\Excepciones.pdb
+D:\TP3 AleJAvier\Main\bin\Debug\normidna.nlp
+D:\TP3 AleJAvier\Main\bin\Debug\normnfc.nlp
+D:\TP3 AleJAvier\Main\bin\Debug\normnfd.nlp
+D:\TP3 AleJAvier\Main\bin\Debug\normnfkc.nlp
+D:\TP3 AleJAvier\Main\bin\Debug\normnfkd.nlp
+D:\TP3 AleJAvier\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\Main.exe.config
+C:\TP3 final\TP3 AleJAvier\Main\obj\Debug\Main.exe
+C:\TP3 final\TP3 AleJAvier\Main\obj\Debug\Main.pdb
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\Main.exe
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\Main.pdb
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\Archivos.dll
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\EntidadesAbstractas.dll
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\EntidadesInstanciables.dll
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\Excepciones.dll
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\mscorlib.dll
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\Archivos.pdb
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\EntidadesAbstractas.pdb
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\EntidadesInstanciables.pdb
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\Excepciones.pdb
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\normidna.nlp
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\normnfc.nlp
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\normnfd.nlp
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\normnfkc.nlp
+C:\TP3 final\TP3 AleJAvier\Main\bin\Debug\normnfkd.nlp
+C:\TP3 final\TP3 AleJAvier\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\Main.exe.config
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\obj\Debug\Main.exe
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\obj\Debug\Main.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\Main.exe
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\Main.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\Archivos.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\EntidadesAbstractas.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\EntidadesInstanciables.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\Excepciones.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\mscorlib.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\Archivos.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\Excepciones.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\normidna.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\normnfc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\normnfd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\normnfkc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\bin\Debug\normnfkd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache

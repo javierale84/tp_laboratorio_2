@@ -181,30 +181,20 @@ namespace EntidadesInstanciables
 
        public static Gimnasio operator +(Gimnasio gim, Alumno a)
        {
-           bool flag = false;
+         
            try
            {
-               foreach (Alumno item in gim._alumnos)
-               {
-                   if (item == a)
-                   {
-                       flag = true;
-                   }
-               }
-               if (flag == false)
+            if(gim!= a)
+            
                {
                    gim._alumnos.Add(a);
                }
 
-               else
-               {
-                   throw new AlumnoRepetidoException();
-               }
            }
 
-           catch (Exception e)
+           catch (Exception)
            {
-               Console.WriteLine(e.Message);
+               throw new AlumnoRepetidoException();
            }
            return gim;
        }

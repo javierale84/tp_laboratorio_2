@@ -141,9 +141,9 @@ namespace EntidadesAbstractas
      StringBuilder sb = new StringBuilder();
 
      sb.AppendLine("Nombre:" + this.Nombre);
-     sb.AppendLine("Nombre:" + this.Apellido);
-     sb.AppendLine("Nombre:" + this.DNI);
-     sb.AppendLine("Nombre:" + this.Nacionalidad);
+     sb.AppendLine("Apellido:" + this.Apellido);
+     sb.AppendLine("Dni:" + this.DNI);
+     sb.AppendLine("Nacionalidad:" + this.Nacionalidad);
 
      return sb.ToString();
 

@@ -55,7 +55,13 @@ namespace EntidadesInstanciables
 
         public override string ToString()
         {
-            return base.MostrarDatos();
+            string aux = "";
+            if (this is Alumno)
+            {
+               aux+=  base.MostrarDatos();
+            }
+
+            return aux;
         }
         
         public static bool operator ==(Alumno a, Gimnasio.EClases clase)

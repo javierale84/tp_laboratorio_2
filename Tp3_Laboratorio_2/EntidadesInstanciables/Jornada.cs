@@ -79,7 +79,7 @@ namespace EntidadesInstanciables
 
             foreach (Alumno item in this._alumnos)
             {
-                sb.Append(item.ToString());
+                sb.Append(item);
             }
 
             return sb.ToString();

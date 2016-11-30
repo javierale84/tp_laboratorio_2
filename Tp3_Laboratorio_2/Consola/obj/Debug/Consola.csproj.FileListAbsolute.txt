@@ -12,3 +12,17 @@ C:\Tp3_Laboratorio_2\Consola\obj\Debug\Consola.pdb
 C:\Tp3_Laboratorio_2\Consola\bin\Debug\Archivos.dll
 C:\Tp3_Laboratorio_2\Consola\bin\Debug\Archivos.pdb
 C:\Tp3_Laboratorio_2\Consola\bin\Debug\EntidadesInstanciables.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\bin\Debug\Consola.exe.config
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\obj\Debug\Consola.exe
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\obj\Debug\Consola.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\bin\Debug\Consola.exe
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\bin\Debug\Consola.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\bin\Debug\Archivos.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\bin\Debug\EntidadesAbstractas.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\bin\Debug\EntidadesInstanciables.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\bin\Debug\Excepciones.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\bin\Debug\Archivos.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\bin\Debug\Excepciones.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Tp3_Laboratorio_2\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
