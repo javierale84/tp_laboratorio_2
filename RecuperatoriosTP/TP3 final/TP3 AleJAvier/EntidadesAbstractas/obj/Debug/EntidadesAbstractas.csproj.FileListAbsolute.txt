@@ -18,3 +18,16 @@ C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP
 C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
 C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
 C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\bin\Debug\mscorlib.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\bin\Debug\normidna.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\bin\Debug\normnfc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\bin\Debug\normnfd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\bin\Debug\normnfkc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\bin\Debug\normnfkd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

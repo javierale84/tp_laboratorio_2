@@ -68,3 +68,22 @@ C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP
 C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.csprojResolveAssemblyReference.cache
 C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.dll
 C:\Users\javier\Documents\GitHub\tp_laboratorio_2\Recuperatorio TP3\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Test_Unitarios.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Test_Unitarios.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesAbstractas.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesInstanciables.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Excepciones.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\mscorlib.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Archivos.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Excepciones.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\Archivos.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normidna.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfkc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\bin\Debug\normnfkd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Test_Unitarios\obj\Debug\Test_Unitarios.csprojResolveAssemblyReference.cache

@@ -3,3 +3,13 @@ C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Excepciones\bin\Debug
 C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
 C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\sam\Desktop\Tomadi.Federico.2D.Trabajo.Practico.3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Excepciones\bin\Debug\mscorlib.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Excepciones\bin\Debug\normidna.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Excepciones\bin\Debug\normnfc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Excepciones\bin\Debug\normnfd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Excepciones\bin\Debug\normnfkc.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Excepciones\bin\Debug\normnfkd.nlp
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\javier\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP3 final\TP3 AleJAvier\Excepciones\obj\Debug\Excepciones.pdb
